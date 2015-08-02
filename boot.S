@@ -67,6 +67,7 @@ gdtdesc:
 .byte 0x55
 .byte 0xaa
 
+.code32
 /***
 	Protected Mode **/
 	protected:
