@@ -1,12 +1,3 @@
-;------------------------------------------------------------------------------
-; temporary Makefile
-;
-; Author: Seok Hong (seok85.hong@gmail.com)
-; Date: 2014-10-12
-;
-; Changelog:
-;	0.0.1 - first version
-;------------------------------------------------------------------------------
 [ORG 0x00]		; set startup address to 0x00
 [BITS 16]		; use 16bit code
 
